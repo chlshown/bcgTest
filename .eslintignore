@@ -1,0 +1,11 @@
+node_modules
+.idea
+*.iml
+log
+static
+.babelrc
+.gitignore
+CHANGELOG.md
+package.json
+yarn.lock
+__tests__
